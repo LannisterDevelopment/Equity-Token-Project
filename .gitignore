@@ -1,0 +1,10 @@
+# Dependency and Local
+node_modules/
+build/
+.DS_Store/
+
+# Debug log from npm
+npm-debug.log
+
+# local env variables
+.env
