@@ -2,6 +2,8 @@ Welcome to the Equity Token Project.
 
 This project is a collaboration between Lannister Development and MediaShower.
 
+See our press release on [Market Watch here](https://www.marketwatch.com/press-release/lannister-development-and-media-shower-successfully-sign-mou-to-launch-the-equity-token-project-a-platform-for-companies-to-offer-their-equity-via-token-crowdfunding-2018-09-14)
+
 **Overview:**
 Lannister Development has partnered with Media Shower to create the first U.S. viable blockchain smart contract token for buying, selling, trading, and otherwise exchanging equity in U.S. based companies.
 In order to further this goal, Lannister Development has agreed to produce an initial open-source token generation smart contract which can be shown to interested parties as the basis for future development work.
